@@ -1,0 +1,13 @@
+{
+
+    "title_notify_robbery": "WQUAL SHOP ROBBERY",
+    "description_Robbery_cancelled": "Rapina Annullata",
+    "description_money_amount": "Rapina completata, denaro ottenuto: ",
+    "title_blip": "Rapina",
+    "label_progress_lib": "Scassinare la serratura della cassaforte",
+    "timer_robbery": "Rapina in corso: ",
+    "seconds_robbery": " secondi rimasti",
+    "description_minigame": "Tentativo fallito! Riprova",
+    "description_not_police": "Non ci sono abbastanza poliziotti",
+    "description_not_gun_robbery": "Fratello come vuoi scassinare senza un'arma ?"
+}
